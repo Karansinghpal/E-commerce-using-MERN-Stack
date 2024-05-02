@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
-  "author": "Shibansu Mandal",
+  "author": "Karan Singh PAl ",
   "license": "LPU",
   "dependencies": {
     "bcrypt": "^5.1.1",
